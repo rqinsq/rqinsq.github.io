@@ -21,6 +21,7 @@ author: Siqi (Rebecca) Qin
 
 navbar-links:
   About Me: "aboutme"
+  Research: "research"
   Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
