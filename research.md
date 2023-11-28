@@ -6,8 +6,10 @@ title: Research
 Qin, S., Cai, M., Fuller, S., & Qian, Y. (2022). Gender, Parenthood, and Employment During COVID-19: An Immigrant-Native Born Comparison in Canada. _Canadian Ethnic Studies 54_(3), 63-108. doi:10.1353/ces.2022.0025.
 
 **Abstract**: The COVID-19 pandemic has upended how we live and work. In Canada, the gender gap in employment among parents with young children widened substantially during the pandemic. Previous studies, however, examine parents in Canada without distinguishing them by immigrant status, although immigrant versus Canadian-born parents may have distinct work-family experiences. In this study, we investigate how the intersection of parental and immigrant statuses influenced change in gender employment gaps during the pandemic. Drawing on Labor Force Survey (LFS) microdata from March 2019 to February 2021, we examine the probability of employment by gender, parental status, and immigrant status. When comparing the school closure period (March to August 2020) relative to the same months in 2019 (pre-pandemic), immigrant women, irrespective of parental status, witnessed larger declines in employment than their male counterparts and non-immigrants, and the gender gap widened the most among recent immigrants with school-aged children. When schools gradually reopened (September 2020 to February 2021), employment recovered faster for recent than established immigrant mothers. Overall, our findings show that among parents of young children, the growing gender gap in employment during the pandemic was concentrated among immigrants, with immigrant mothers disproportionately disadvantaged. This study illuminates how the pandemic exacerbated intersectional inequalities based on gender, parenthood, and immigrant status.
-      - We used STATA 16 to analyze the data. 
-      
+
+We used STATA 16 to analyze the data. To obtain a copy of our code for replication purposes, please contact me directly. 
+
+[download pdf](https://rqinsq.github.io/assets/qin et al_2022_gender, parenthood, and employment during covid-19.pdf)
 
 # Working papers
 Confiding in Strangers: Trust and Mental Health Service Use in China
