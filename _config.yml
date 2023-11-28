@@ -20,11 +20,7 @@ author: Siqi (Rebecca) Qin
 ###############################################
 
 navbar-links:
-  About Me: "aboutme"
   Research: "research"
-  Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
   CV: "assets/CV_Qin Siqi_2023.2.pdf"
 
 ################
@@ -51,7 +47,6 @@ round-avatar: true
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
   email: "siqi.qin@ubc.ca"
-  mastodon: alive.bar/@thisthat
   ORCID: 0009-0001-7039-6966
 
 # If you want your website to generate an RSS feed, provide a description
