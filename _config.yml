@@ -20,9 +20,9 @@ author: Siqi (Rebecca) Qin
 ###############################################
 
 navbar-links:
-  Research: "research"
+  Research: "Research"
   CV: "assets/Siqi Qin CV Aug 2026.pdf"
-  Contact: "contact"
+  Contact: "Contact"
 
 ################
 # --- Logo --- #
@@ -69,7 +69,7 @@ share-links-active:
 
 # How to display the link to your website in the footer
 # Remove this if you don't want a link in the footer
- url-pretty: "rqinsq.github.io"
+url-pretty: "rqinsq.github.io"
 
 # Add the website title to the title of every page
 title-on-all-pages: true
