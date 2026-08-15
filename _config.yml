@@ -20,9 +20,9 @@ author: Siqi (Rebecca) Qin
 ###############################################
 
 navbar-links:
-  Research: "Research"
+  Research: "research"
   CV: "assets/Siqi Qin CV Aug 2026.pdf"
-  Contact: "Contact"
+  Contact: "contact"
 
 ################
 # --- Logo --- #
